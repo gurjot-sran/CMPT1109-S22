@@ -44,6 +44,6 @@ int main() {
             cout << "x2 " << x2 << endl;
         }
     }
-
+// this is the end of prgram and it is working fine
 return 0;
 }
